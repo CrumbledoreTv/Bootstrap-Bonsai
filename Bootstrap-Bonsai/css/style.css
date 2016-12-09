@@ -1,0 +1,125 @@
+@font-face {
+  font-family: Raleway;
+  src:url(../fonts/Raleway/Raleway-Regular.ttf);
+}
+#top{
+  background-image: url("../img/payments-banner-graphic.png");
+  width: 100%;
+  height: 550px;
+}
+#top a{
+  color: white;
+  font-family: Raleway;
+}
+#top img{
+  margin-top: -5px;
+}
+#top a:hover{
+  background-color: transparent!important;
+}
+#midTop{
+  margin-top: 150px;
+}
+.fa-comments{
+  color: white;
+  float: right;
+}
+#iconeRelou{
+  height: 30px;
+  position: fixed;
+  border-radius: 50%;
+  z-index: 1;
+  padding: 7px;
+  width: 30px;
+  background-color: #8080BE;
+  right: 0;
+}
+.top{
+  color: white;
+  font-family: Raleway;
+}
+.top .btn{
+  color: #8080BE;
+}
+#RealMid{
+  border-bottom: 1px solid black;
+}
+#milieu{
+  border-left: 0.5px solid black;
+  border-right: 0.5px solid black;
+}
+.thumbnail{
+  margin-top: 100px;
+  font-family: Raleway;
+  border: none;
+}
+.page-header{
+  padding-top: 40px;
+  padding-bottom: 40px;
+  font-family: Raleway;
+}
+.page-header span{
+  color: #5448C6;
+  font-size: 60px;
+}
+#credit{
+  background-color: #4C535C;
+  height: 70px;
+  color: white;
+  font-family: Raleway;
+  padding-top: 15px;
+  font-size: 20px;
+}
+#topHG{
+  height: 340px;
+  padding-top: 100px;
+  overflow: hidden;
+  background-color: #7CD5EF;
+}
+#topHD{
+  font-family: Raleway;
+  height: 340px;
+  padding: 75px;
+}
+#midHG{
+  font-family: Raleway;
+  padding: 75px;
+}
+#midHD{
+  height: 340px;
+  padding-top: 100px;
+  overflow: hidden;
+  background-color: #8080BE;
+}
+#botHG{
+  height: 340px;
+  padding-top: 100px;
+  overflow: hidden;
+  background-color: #7CD5EF;
+}
+#botHD{
+  font-family: Raleway;
+  padding: 75px;
+}
+.page-header .btn{
+  background-color: #00AD84;
+  color: white;
+}
+#footer{
+  background-color: #242629;
+  height: 300px;
+  font-family: Raleway;
+  color: grey;
+  padding-top: 50px;
+}
+.white{
+  color: white;
+  font-size: 12px;
+}
+.extraBot p{
+  margin-top: 40px;
+  font-size: 10px;
+}
+span{
+  color: white;
+}
